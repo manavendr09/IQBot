@@ -32,14 +32,21 @@ streamlit run main.py
 ## Screenshots
 
 ### Landing Page
-![Landing Page]<img width="1505" height="871" alt="Screenshot 2025-09-08 115316" src="https://github.com/user-attachments/assets/7f1b64fa-5b73-44df-ab42-82ff85e17dbb" />
+Landing Page:
+<img width="1505" height="871" alt="Screenshot 2025-09-08 115316" src="https://github.com/user-attachments/assets/7f1b64fa-5b73-44df-ab42-82ff85e17dbb" />
 
 
-### Ask a Question
-![Ask Question](screenshots/question.png)
+###MAIN PAGE
+MAIN PAGE:
+<img width="1840" height="882" alt="Screenshot 2025-09-08 115642" src="https://github.com/user-attachments/assets/0a571c8b-a737-492f-8dcd-9986a365949e" />
 
-### Answer with Sources
-![Answer with Sources](screenshots/answer.png)
+###SIDE BAR WITH PDF UPLOAD
+<img width="278" height="895" alt="Screenshot 2025-09-08 115954" src="https://github.com/user-attachments/assets/c7c1d5fe-adf2-4f3a-81d6-249511e74ff5" />
+
+
+###ASKING QUESTION ANS ANSWERING
+<img width="1839" height="688" alt="Screenshot 2025-09-08 084145" src="https://github.com/user-attachments/assets/a3062c4d-3d45-4f97-835d-b465bf3e6164" />
+
 
 
 Live Demo:

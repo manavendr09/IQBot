@@ -32,7 +32,8 @@ streamlit run main.py
 ## Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/landing.png)
+![Landing Page]<img width="1505" height="871" alt="Screenshot 2025-09-08 115316" src="https://github.com/user-attachments/assets/7f1b64fa-5b73-44df-ab42-82ff85e17dbb" />
+
 
 ### Ask a Question
 ![Ask Question](screenshots/question.png)

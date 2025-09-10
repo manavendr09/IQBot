@@ -48,7 +48,7 @@ initialize_session_state()
 # =========================
 # 🔹 API Key
 # =========================
-GOOGLE_API_KEY = "AIzaSyASFxwnbFkW1lkrl9bBkZIy2xZ0CDy9MSY"
+GOOGLE_API_KEY = "AIzaSyDjoPobkffbTk276TZagi_nK3PhuDoDWGk"
 
 # =========================
 # 🔹 Page Config & Styling
